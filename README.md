@@ -14,7 +14,8 @@ If you want to learn more on that topic, [watch this video](https://www.youtube.
 
 Bookmark it and receive the most recent updates with just a single click. The confidence value is updated a few times a day. No installation required.
 
-- [cbbi.monicz.pl](https://cbbi.monicz.pl/)
+- [cbbi.info](https://cbbi.info/) (official)
+- [cbbi.monicz.pl](https://cbbi.monicz.pl/) (mirror)
 
 ## Check out this demo
 
@@ -30,11 +31,12 @@ Bookmark it and receive the most recent updates with just a single click. The co
 
 ### Execute the script
 
-`$ py main.py <JSON_FILE_PATH>`
+`$ py main.py --help`  
+`$ py main.py`
 
 ## Metrics
 
-The current CBBI version *(April 2021)* includes the following metrics:
+The current CBBI version *(May 2021)* includes the following metrics:
 
 | Name | Link |
 |---------------|------|
@@ -46,6 +48,9 @@ The current CBBI version *(April 2021)* includes the following metrics:
 | Bitcoin Trolololo Trend Line | [Visit page](https://www.blockchaincenter.net/bitcoin-rainbow-chart/) |
 | RUPL/NUPL Chart | [Visit page](https://www.lookintobitcoin.com/charts/relative-unrealized-profit--loss/) |
 | Puell Multiple | [Visit page](https://www.lookintobitcoin.com/charts/puell-multiple/) |
+| MVRV Z-Score | [Visit page](https://www.lookintobitcoin.com/charts/mvrv-zscore/) |
+| RHODL Ratio | [Visit page](https://www.lookintobitcoin.com/charts/rhodl-ratio/) |
+| Reserve Risk | [Visit page](https://www.lookintobitcoin.com/charts/reserve-risk/) |
 
 ## Footer
 
